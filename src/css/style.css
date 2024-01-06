@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+}
+
+@media (max-width: 500px) {
+    .advogado{
+        margin-top: 1em;
+     }
+    
+}
+
+
+@media (min-width:600px) {
+
+    li{
+        margin-left: 2em;
+    }
+}
+
+/* Media queries grandes telas*/
+
+.sessao-principal{
+    background-size: cover;
+    padding-bottom: 300px;
+    background-color: rgba(0, 0, 0, 0.692);
+}
+
+.sessao-principal-bg{
+    background: url(../img/Deusa-da-justiça.jpg)  no-repeat;
+    background-size: cover;
+}
+
+.servico{
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    height: auto;
+}
+
+
+.bg-sobre-nos-bem-vindo{
+    background: url(../img/Deusa-da-justiça-photoaidcom-darken.jpg);
+    background-size: cover;
+ 
+
+}
+
+/* Equipe*/
+
+
+.advogado{
+    margin-left: 1em;
+    width: 300px;
+}
