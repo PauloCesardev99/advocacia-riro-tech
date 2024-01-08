@@ -4,7 +4,7 @@
     padding: 0px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 913px) {
     .advogado{
         margin-top: 1em;
      }
@@ -17,9 +17,9 @@
     li{
         margin-left: 2em;
     }
-}
 
-/* Media queries grandes telas*/
+   
+}
 
 .sessao-principal{
     background-size: cover;
@@ -28,7 +28,7 @@
 }
 
 .sessao-principal-bg{
-    background: url(../img/Deusa-da-justiça.jpg)  no-repeat;
+    background: url(../img/Deusa-da-justiça.webp)  no-repeat;
     background-size: cover;
 }
 
@@ -41,7 +41,7 @@
 
 
 .bg-sobre-nos-bem-vindo{
-    background: url(../img/Deusa-da-justiça-photoaidcom-darken.jpg);
+    background: url(../img/Deusa-da-justiça-photoaidcom-darken.webp);
     background-size: cover;
  
 
@@ -54,3 +54,6 @@
     margin-left: 1em;
     width: 300px;
 }
+
+/* Media queries grandes telas*/
+
